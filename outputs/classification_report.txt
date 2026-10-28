@@ -1,0 +1,21 @@
+                    precision    recall  f1-score   support
+
+           calling       0.74      0.74      0.74       126
+          clapping       0.80      0.80      0.80       126
+           cycling       0.95      0.98      0.96       126
+           dancing       0.81      0.80      0.81       126
+          drinking       0.78      0.75      0.76       126
+            eating       0.83      0.90      0.86       126
+          fighting       0.87      0.75      0.80       126
+           hugging       0.83      0.83      0.83       126
+          laughing       0.83      0.79      0.81       126
+listening_to_music       0.74      0.69      0.71       126
+           running       0.84      0.87      0.86       126
+           sitting       0.67      0.71      0.69       126
+          sleeping       0.88      0.90      0.89       126
+           texting       0.66      0.71      0.69       126
+      using_laptop       0.82      0.81      0.81       126
+
+          accuracy                           0.80      1890
+         macro avg       0.80      0.80      0.80      1890
+      weighted avg       0.80      0.80      0.80      1890
